@@ -1,7 +1,7 @@
 # Test technique PHP Laravel pour la société ADNEOM
 Votre objectif est de créer une mini application web comportant deux vues distinctes.
 
-La première vue permet d'importer le fichier Excel présent dans ce repository (data.xlsx) dans une base de données.
+La première vue permet d'importer le fichier Excel `data.xlsx` présent dans ce repository dans une base de données.
 
 ⚠️ Attention, si deux entrées ou plus comportent la même adresse mail, il est impératif de n'enregistrer que la première entrée et d'ignorer les autres.
 
